@@ -1,0 +1,5 @@
+name: PortalTrapBlocker
+main: me.whackyorb.trapBlocker.TrapBlocker
+version: Alpha 0.1
+author: Whackyorb
+prefix: PortalTrapBlocker
